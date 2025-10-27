@@ -101,6 +101,7 @@ Challenge yourself!
 Submission and audit
 
 You must submit the README.md file and all files used to create and delete and manage your infrastructure: Vagrantfile, Dockerfiles, Manifests, ...
+```
 .
 ├── Manifests
 │   └── [...]
@@ -109,6 +110,7 @@ You must submit the README.md file and all files used to create and delete and m
 ├── Dockerfiles
 │   └── [...]
 └── Vagrantfile
+```
 
 If you decide to use a different structure for your project remember you should be able to explain and justify your decision during the audit.
 
